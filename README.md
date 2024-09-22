@@ -1,4 +1,5 @@
-![logo](https://raw.githubusercontent.com/Ansarhansi/Ansarhansi/f1456099bbae6e17f99cf9a9182351dcc686e39d/Your%20paragraph%20text.png)
+![logo](https://raw.githubusercontent.com/Ansarhansi/Ansarhansi/f1456099bbae6e17f99cf9a9182351dcc686e39d/Your%20paragraph%20![github](https://github.com/user-attachments/assets/40c7bfbc-ca18-4f40-ab8f-a82bffc2b87c)
+.png)
 <h1 align="center">Hi 👋, I'm Ansarhansi</h1>
 <h3 align="center">I'm a passionate "Frontend developer "with a love for solving problems and building impactful projects.</h3>
 
@@ -18,7 +19,7 @@
 
 - 📫 How to reach me **ansarhansi29@gmail.com**
 
-- 📄 Know about my experiences [Refer my Linkedin](Refer my Linkedin)
+- 📄 Know about my experiences [ansar hansi]
 
 - ⚡ Fun fact **I love watching movies and webseries**
 
