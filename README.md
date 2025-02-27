@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansarhansi&label=Profile%20views&color=0e75b6&style=flat" alt="ansarhansi" /> </p>
 
-- 🔭 I’m currently working on [A user-friendly platform for students to provide feedback and track progress](https://github.com/Ansarhansi/dbms_studentfeedback.git)
-
 - 🌱 I’m currently learning **"Machine Learning with Python" and "Advanced React patterns,"web development using Framework**
 
 - 👯 I’m looking to collaborate on **pygame,Imageio,Scikit-image, opencv,tailwind,figma**
