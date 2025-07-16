@@ -1,87 +1,82 @@
-<h1 align="center">👋 Hello, I'm Mohammed Ansar Hansi</h1>
-<h3 align="center">Frontend Developer | Full-Stack Enthusiast | Open Source Contributor</h3>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://github.com/Ansarhansi/Ansarhansi/blob/main/github.jpg" alt="Ansar's banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Mohammed Ansar Hansi</h1>
+<h3 align="center">A passionate Full-Stack Developer who loves building impactful software solutions.</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ansarhansi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ansarhansi29@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Ansarhansi" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding gif" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
-I’m a Computer Science graduate with a strong passion for clean UI, scalable systems, and problem-solving. I specialize in building robust full-stack applications and delivering seamless user experiences.
-
-With hands-on experience in JavaScript, React.js, Node.js, Flutter, and databases like MongoDB & PostgreSQL, I have developed, deployed, and optimized end-to-end solutions across various domains.
-
-- 🔭 Currently building **AI-integrated learning systems** and advanced **Flutter animations**
-- 🚀 Actively contributing to real-world projects and open-source
-- 💡 Always eager to learn new technologies and design patterns
+- 💻 I'm a **Full Stack Developer** with hands-on experience in `React.js`, `Node.js`, `MongoDB`, and `PostgreSQL`.
+- 🌱 Currently learning **Machine Learning with Python** and advanced frontend patterns using `Next.js` & `TailwindCSS`.
+- 💡 I'm passionate about solving real-world problems and crafting clean, scalable code.
+- 🎯 Goal: To build scalable SaaS platforms & AI-powered products.
+- 📫 Reach me at **ansarhansi29@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### 💼 Featured Projects
 
-**Frontend:** React.js, Tailwind CSS, Next.js, Flutter, HTML, CSS, JavaScript  
-**Backend:** Node.js, Express.js, Firebase, MongoDB, PostgreSQL  
-**Tools:** Git, GitHub, Postman, Vercel, Figma, Render, JWT, FlutterFlow
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| **ExamVision** | React, Node.js, PostgreSQL, TensorFlow.js | AI-powered proctoring system with face detection, violation monitoring, and quiz analytics. |
+| **DevHub** | React, Tailwind, Firebase | A developer community portal for sharing projects, blogs, and job postings. |
+| **Cryptoscope** | React, Chart.js, CoinGecko API | A real-time crypto price tracker with charts, historical data, and news integration. |
+| **TaskForge** | React, Context API, localStorage | A sleek personal task tracker with filters, priority tags, due dates, and performance dashboard. |
+
+📁 [Explore all my projects →](https://github.com/Ansarhansi)
 
 ---
 
-### 💼 Notable Projects
+### 🧰 Tech Stack
 
-#### 📸 ExamVision – AI-Powered Exam Monitoring Platform
-AI-based remote proctoring system to ensure secure online exams.
-- Face recognition, multiple face detection, off-screen alerts
-- Admin dashboard with student logs and violations
-- 🔧 Stack: React, TensorFlow.js, Node.js, MongoDB
-
-#### 🎓 EduSecure LMS – Learning Management System
-Feature-rich platform for managing courses, uploading quizzes, and tracking progress.
-- Student & Faculty roles, analytics dashboard, email alerts
-- JWT-based login & secure file handling
-- 🔧 Stack: React, Node.js, Chart.js, MongoDB
-
-#### ✅ TaskHive – Task Tracker with Smart Analytics
-Productivity tracker with search, filters, priority tags, and insights.
-- Dynamic charts, responsive UI, offline storage
-- Smooth transitions with Framer Motion
-- 🔧 Stack: React, Tailwind, LocalStorage
-
-#### 🌐 DevHire – Developer Job Portal
-Search, filter, and apply to developer jobs with resume preview.
-- Role-based login, resume upload, recruiter dashboard
-- 🔧 Stack: Next.js, MongoDB, Zustand
-
-#### 📦 PortfolioGen CLI – Command-line Portfolio Generator
-A CLI tool to create portfolio websites in seconds.
-- Interactive terminal UI and file generation
-- 🔧 Stack: Node.js, Inquirer.js, EJS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,figma,vscode,git,python,java" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ansarhansi&show_icons=true&theme=gruvbox" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansarhansi&layout=compact&theme=gruvbox" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ansarhansi&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansarhansi&theme=radical" alt="GitHub Streak" width="450"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ansarhansi&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansarhansi&layout=compact&theme=radical" alt="Top Languages" width="350"/>
 </p>
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Connect with Me
 
-I'm always open to discussing ideas, freelance projects, or tech collaborations.
-
-- 📩 Email: **ansarhansi29@gmail.com**  
-- 🌍 LinkedIn: [linkedin.com/in/ansarhansi](https://linkedin.com/in/ansarhansi)  
-- 💻 GitHub: [github.com/Ansarhansi](https://github.com/Ansarhansi)
+<p align="center">
+  <a href="https://linkedin.com/in/ansarhansi"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/ansarhansi"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://instagram.com/mr_1670_"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.hackerrank.com/ansarhansi29"><img src="https://skillicons.dev/icons?i=hackerrank" /></a>
+  <a href="https://stackoverflow.com/users/27174338"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
+  <a href="https://kaggle.com/ansarhansi29"><img src="https://skillicons.dev/icons?i=kaggle" /></a>
+</p>
 
 ---
 
-> "I believe great software comes from a blend of clean code, smart UI, and a clear vision. Let’s build something amazing."
+### ⚡ Fun Fact
+
+> I love exploring design systems, watching tech breakdowns, and bingeing sci-fi movies on weekends.  
+> My favorite code snack? Debugging with a cup of strong chai ☕💻
+
+---
+
+### 📌 Let's Collaborate!
+If you're working on exciting ideas in AI, DevTools, or EdTech — feel free to reach out!
+
+---
