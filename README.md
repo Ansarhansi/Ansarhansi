@@ -13,7 +13,7 @@
 - 💼 Experienced in building full-stack projects using **React, Node.js, MongoDB, PostgreSQL, and Tailwind CSS**.
 - 🧠 Completed hands-on training at **X-Workz**, gaining professional experience in REST API design, modular JavaScript, and database-driven applications.
 - 🌱 Currently exploring **Advanced React Patterns, Flutter Animations**, and **Machine Learning with Python**.
-- 🔗 Portfolio: [GitHub Projects](https://github.com/Ansarhansi)
+- 🔗 Portfolio: http://ansar-portfolio.surge.sh/
 
 📬 **ansarhansi29@gmail.com**
 
@@ -38,13 +38,7 @@
 - 📆 Built with: `React`, `Tailwind CSS`, `Framer Motion`
 - 🔍 Features: Task tagging, priority filters, toast notifications, animations
 - 📈 Dashboard with completion stats and filtering logic
-
-#### ✅ **DevJobs Portal** – Developer-Centric Job Board (LinkedIn clone concept)
-> A fully responsive platform for posting and applying to tech jobs.
-- 💼 Built with: `Next.js`, `MongoDB`, `Zustand`, `Tailwind CSS`
-- ✨ Features: Role-based login (Admin, Recruiter, Developer), job filters, saved jobs
-- 📨 Admin panel for approving listings, resume upload, email notifications
-
+  
 #### ✅ **Portfolio Generator CLI** – Instant Developer Portfolio Creator
 > A CLI tool to generate responsive portfolios using terminal prompts.
 - 🧰 Built with: `Node.js`, `Inquirer`, `Chalk`, `EJS Templates`
@@ -88,4 +82,4 @@
 ---
 
 > *"Driven by curiosity, refined by code. I strive to build applications that are fast, accessible, and user-friendly."*  
-> – Ansar Hansi
+> – Ansar Hansi  whtehr features project is neccasry insted in that add 2 most difficuly and more attrcative app that in features i can built
