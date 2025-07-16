@@ -1,44 +1,91 @@
-![logo](https://github.com/Ansarhansi/Ansarhansi/blob/main/github.jpg)
+![GitHub Banner](https://github.com/Ansarhansi/Ansarhansi/blob/main/github.jpg)
 
-<h1 align="center">Hi 👋, I'm Ansarhansi</h1>
-<h3 align="center">I'm a passionate "Frontend developer "with a love for solving problems and building impactful projects.</h3>
+<h1 align="center">Hi 👋, I'm Mohammed Ansar Hansi</h1>
+<h3 align="center">A passionate Frontend Developer focused on building performant, accessible, and impactful web apps.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmMyZDFydzgybmhyN3l4dHJpeHg5MDM4dmpyNXVxcDNidnFnZnV6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
+<img align="right" alt="Coding GIF" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansarhansi&label=Profile%20views&color=0e75b6&style=flat" alt="ansarhansi" /> </p>
+---
 
-- 🌱 I’m currently learning **"Machine Learning with Python" and "Advanced React patterns,"web development using Framework**
+### 🧑‍💻 About Me
 
-- 👯 I’m looking to collaborate on **pygame,Imageio,Scikit-image, opencv,tailwind,figma**
+- 🎓 Computer Science background with deep interest in **UI/UX, frontend engineering**, and building scalable systems.
+- 💼 Experienced in building full-stack projects using **React, Node.js, MongoDB, PostgreSQL, and Tailwind CSS**.
+- 🧠 Completed hands-on training at **X-Workz**, gaining professional experience in REST API design, modular JavaScript, and database-driven applications.
+- 🌱 Currently exploring **Advanced React Patterns, Flutter Animations**, and **Machine Learning with Python**.
+- 🔗 Portfolio: [GitHub Projects](https://github.com/Ansarhansi)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ansarhansi](https://github.com/Ansarhansi)
+📬 **ansarhansi29@gmail.com**
 
-- 💬 Ask me about **"Python, Data Science, Web Development,Algorithms**
+---
 
-- 📫 How to reach me **ansarhansi29@gmail.com**
+### 🚀 Featured Projects
 
-- 📄 Know about my experiences [ansar hansi]
+#### ✅ **ExamVision** – AI-Powered Exam Proctoring Platform
+> A smart proctoring tool that monitors student activity using face detection and alerts admins of anomalies.
+- 🔍 Built with: `React`, `TensorFlow.js`, `Node.js`, `Express`, `MongoDB`
+- 👨‍🏫 Role-based dashboards for Admin, Student, and Faculty
+- 📸 Live face tracking, violation logs, auto-email alerts
 
-- ⚡ Fun fact **I love watching movies and webseries**
+#### ✅ **EduSecure LMS** – Learning Management System with Monitoring
+> Secure and interactive learning platform for schools and colleges with smart dashboarding.
+- 🎓 Built with: `React`, `Chart.js`, `Node.js`, `MongoDB`, `JWT`
+- 📊 Student progress visualization, course upload, and quiz builder
+- 🧠 AI-integrated cheat detection (beta)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ansarhansi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ansarhansi" height="30" width="40" /></a>
-<a href="https://twitter.com/ansarhansi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ansarhansi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ansarhansi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansarhansi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/27174338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27174338" height="30" width="40" /></a>
-<a href="https://kaggle.com/ansarhansi29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ansarhansi29" height="30" width="40" /></a>
-<a href="https://fb.com/ansarhansi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ansarhansi" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_1670_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_1670_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ansarhansi29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ansarhansi29" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ansarhansi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ansarhansi" height="30" width="40" /></a>
+#### ✅ **TaskHive** – Smart Personal Task Tracker
+> Responsive task tracker with categories, analytics, and local storage support.
+- 📆 Built with: `React`, `Tailwind CSS`, `Framer Motion`
+- 🔍 Features: Task tagging, priority filters, toast notifications, animations
+- 📈 Dashboard with completion stats and filtering logic
+
+#### ✅ **DevJobs Portal** – Developer-Centric Job Board (LinkedIn clone concept)
+> A fully responsive platform for posting and applying to tech jobs.
+- 💼 Built with: `Next.js`, `MongoDB`, `Zustand`, `Tailwind CSS`
+- ✨ Features: Role-based login (Admin, Recruiter, Developer), job filters, saved jobs
+- 📨 Admin panel for approving listings, resume upload, email notifications
+
+#### ✅ **Portfolio Generator CLI** – Instant Developer Portfolio Creator
+> A CLI tool to generate responsive portfolios using terminal prompts.
+- 🧰 Built with: `Node.js`, `Inquirer`, `Chalk`, `EJS Templates`
+- 🎯 Outputs static HTML/CSS files with user info and GitHub integration
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+`HTML` • `CSS` • `JavaScript` • `TypeScript` • `Python` • `Java` • `Node.js` • `React.js` • `Next.js` • `Express` • `Flutter`
+
+**Databases & Backend**  
+`MongoDB` • `MySQL` • `PostgreSQL` • `Firebase` • `REST APIs`
+
+**Tools & Libraries**  
+`Tailwind CSS` • `Framer Motion` • `Chart.js` • `Redux` • `Zustand` • `JWT` • `Git & GitHub` • `Postman` • `Figma` • `Render` • `Vercel`
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ansarhansi&show_icons=true&theme=react&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansarhansi&layout=compact&theme=react" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansarhansi&theme=react" height="160" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ansarhansi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/ansarhansi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://github.com/Ansarhansi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.hackerrank.com/ansarhansi29"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank" /></a>
+  <a href="https://kaggle.com/ansarhansi29"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansarhansi&show_icons=true&locale=en&layout=compact" alt="ansarhansi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansarhansi&show_icons=true&locale=en" alt="ansarhansi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansarhansi&" alt="ansarhansi" /></p>
+> *"Driven by curiosity, refined by code. I strive to build applications that are fast, accessible, and user-friendly."*  
+> – Ansar Hansi
