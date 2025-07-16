@@ -1,91 +1,86 @@
-![GitHub Banner](https://github.com/Ansarhansi/Ansarhansi/blob/main/github.jpg)
+![Header](https://github.com/Ansarhansi/Ansarhansi/blob/main/github.jpg)
 
-<h1 align="center">Hi 👋, I'm Mohammed Ansar Hansi</h1>
-<h3 align="center">A passionate Frontend Developer focused on building performant, accessible, and impactful web apps.</h3>
+<h1 align="center">Hi 👋 I'm Mohammed Ansar Hansi</h1>
+<h3 align="center">Frontend Developer | Full-Stack Enthusiast | Problem Solver</h3>
 
-<img align="right" alt="Coding GIF" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
+<p align="center">
+  <a href="https://linkedin.com/in/ansarhansi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ansarhansi29@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Ansarhansi"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 Computer Science background with deep interest in **UI/UX, frontend engineering**, and building scalable systems.
-- 💼 Experienced in building full-stack projects using **React, Node.js, MongoDB, PostgreSQL, and Tailwind CSS**.
-- 🧠 Completed hands-on training at **X-Workz**, gaining professional experience in REST API design, modular JavaScript, and database-driven applications.
-- 🌱 Currently exploring **Advanced React Patterns, Flutter Animations**, and **Machine Learning with Python**.
-- 🔗 Portfolio: [GitHub Projects](https://github.com/Ansarhansi)
+I'm a Computer Science graduate passionate about building clean, responsive, and scalable web applications. With a strong foundation in frontend and full-stack development, I combine design principles with logic to deliver smooth user experiences and maintainable code.
 
-📬 **ansarhansi29@gmail.com**
+🔍 I thrive on challenges—whether it's integrating complex APIs, debugging production issues, or crafting pixel-perfect UI.
 
 ---
 
-### 🚀 Featured Projects
+### 🏆 Key Skills
 
-#### ✅ **ExamVision** – AI-Powered Exam Proctoring Platform
-> A smart proctoring tool that monitors student activity using face detection and alerts admins of anomalies.
-- 🔍 Built with: `React`, `TensorFlow.js`, `Node.js`, `Express`, `MongoDB`
-- 👨‍🏫 Role-based dashboards for Admin, Student, and Faculty
-- 📸 Live face tracking, violation logs, auto-email alerts
-
-#### ✅ **EduSecure LMS** – Learning Management System with Monitoring
-> Secure and interactive learning platform for schools and colleges with smart dashboarding.
-- 🎓 Built with: `React`, `Chart.js`, `Node.js`, `MongoDB`, `JWT`
-- 📊 Student progress visualization, course upload, and quiz builder
-- 🧠 AI-integrated cheat detection (beta)
-
-#### ✅ **TaskHive** – Smart Personal Task Tracker
-> Responsive task tracker with categories, analytics, and local storage support.
-- 📆 Built with: `React`, `Tailwind CSS`, `Framer Motion`
-- 🔍 Features: Task tagging, priority filters, toast notifications, animations
-- 📈 Dashboard with completion stats and filtering logic
-
-#### ✅ **DevJobs Portal** – Developer-Centric Job Board (LinkedIn clone concept)
-> A fully responsive platform for posting and applying to tech jobs.
-- 💼 Built with: `Next.js`, `MongoDB`, `Zustand`, `Tailwind CSS`
-- ✨ Features: Role-based login (Admin, Recruiter, Developer), job filters, saved jobs
-- 📨 Admin panel for approving listings, resume upload, email notifications
-
-#### ✅ **Portfolio Generator CLI** – Instant Developer Portfolio Creator
-> A CLI tool to generate responsive portfolios using terminal prompts.
-- 🧰 Built with: `Node.js`, `Inquirer`, `Chalk`, `EJS Templates`
-- 🎯 Outputs static HTML/CSS files with user info and GitHub integration
+- **Frontend**: React.js, Next.js, Tailwind CSS, Bootstrap, JavaScript, HTML5, CSS3
+- **Backend**: Node.js, Express, MongoDB, PostgreSQL, Firebase, REST APIs
+- **Tools**: Git & GitHub, Postman, Figma, VSCode, Vercel, Render, JWT
+- **Learning**: Flutter Animations, ML with Python, Advanced React Patterns
 
 ---
 
-### 🛠️ Tech Stack
+### 📌 Highlight Projects
 
-**Languages & Frameworks**  
-`HTML` • `CSS` • `JavaScript` • `TypeScript` • `Python` • `Java` • `Node.js` • `React.js` • `Next.js` • `Express` • `Flutter`
+#### 🚀 ExamVision – AI-Based Proctoring Platform
+An intelligent online exam platform that detects violations like face off-screen, multiple faces, and suspicious movement.
+- 👨‍🏫 Role-based dashboards: Admin | Faculty | Student
+- 🧠 Tech: React, TensorFlow.js, Node.js, Express, MongoDB
+- 📣 Features: Live monitoring, real-time alerts, email triggers, and student analytics
 
-**Databases & Backend**  
-`MongoDB` • `MySQL` • `PostgreSQL` • `Firebase` • `REST APIs`
+#### 📚 EduSecure LMS – Secure Learning & Quiz System
+An education platform to manage courses, upload quizzes, and track student performance.
+- 📊 Includes detailed student progress dashboard
+- 🔒 Authenticated roles and timed quizzes
+- 🛠️ Stack: React, Node.js, MongoDB, JWT, Chart.js
 
-**Tools & Libraries**  
-`Tailwind CSS` • `Framer Motion` • `Chart.js` • `Redux` • `Zustand` • `JWT` • `Git & GitHub` • `Postman` • `Figma` • `Render` • `Vercel`
+#### ✅ TaskHive – Personal Task & Productivity Tracker
+Smart to-do app with category filters, analytics, search, priority tags, and smooth UX.
+- 🧩 Tech: React, Tailwind CSS, Framer Motion
+- 📈 Completion stats, toast alerts, and responsive design
+
+#### 💼 DevJobs Portal – Job Search Platform for Developers
+Full-stack job board to post and apply to dev-centric jobs.
+- 👥 Login for Recruiters & Applicants, resume upload
+- 📌 Technologies: Next.js, MongoDB, Zustand, Tailwind
+
+#### 🛠️ Portfolio Generator CLI – Create Your Portfolio via CLI
+A Node.js CLI tool that generates a full HTML portfolio based on user input.
+- ⚙️ Tech: Node.js, Inquirer, EJS, Chalk
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ansarhansi&show_icons=true&theme=react&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansarhansi&layout=compact&theme=react" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansarhansi&theme=react" height="160" />
-</div>
-
----
-
-### 🌐 Connect With Me
+### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com/in/ansarhansi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/ansarhansi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://github.com/Ansarhansi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.hackerrank.com/ansarhansi29"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank" /></a>
-  <a href="https://kaggle.com/ansarhansi29"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ansarhansi&show_icons=true&theme=transparent&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansarhansi&layout=compact&theme=transparent" height="165" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ansarhansi&theme=transparent" />
 </p>
 
 ---
 
-> *"Driven by curiosity, refined by code. I strive to build applications that are fast, accessible, and user-friendly."*  
-> – Ansar Hansi
+### 📬 Let's Connect
+
+Feel free to reach out for collaboration, freelance work, or just to talk tech!
+
+- 📧 **ansarhansi29@gmail.com**
+- 🔗 [LinkedIn](https://linkedin.com/in/ansarhansi)
+- 💻 [GitHub](https://github.com/Ansarhansi)
+- 🎯 [HackerRank](https://www.hackerrank.com/ansarhansi29)
+- 🧠 [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ansarhansi)
+
+---
+
+> *“Code is not just about solving problems—it's about crafting experiences. My goal is to build things that are fast, accessible, and make a real difference.”*  
+> — Ansar Hansi
