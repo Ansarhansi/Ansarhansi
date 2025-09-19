@@ -16,37 +16,9 @@
 - 🔗 Portfolio: http://ansar-portfolio.surge.sh/
 
 📬 **ansarhansi29@gmail.com**
+ 
 
----
-
-### 🚀 Featured Projects
-
-#### ✅ **ExamVision** – AI-Powered Exam Proctoring Platform
-> A smart proctoring tool that monitors student activity using face detection and alerts admins of anomalies.
-- 🔍 Built with: `React`, `TensorFlow.js`, `Node.js`, `Express`, `MongoDB`
-- 👨‍🏫 Role-based dashboards for Admin, Student, and Faculty
-- 📸 Live face tracking, violation logs, auto-email alerts
-
-#### ✅ **EduSecure LMS** – Learning Management System with Monitoring
-> Secure and interactive learning platform for schools and colleges with smart dashboarding.
-- 🎓 Built with: `React`, `Chart.js`, `Node.js`, `MongoDB`, `JWT`
-- 📊 Student progress visualization, course upload, and quiz builder
-- 🧠 AI-integrated cheat detection (beta)
-
-#### ✅ **TaskHive** – Smart Personal Task Tracker
-> Responsive task tracker with categories, analytics, and local storage support.
-- 📆 Built with: `React`, `Tailwind CSS`, `Framer Motion`
-- 🔍 Features: Task tagging, priority filters, toast notifications, animations
-- 📈 Dashboard with completion stats and filtering logic
-  
-#### ✅ **Portfolio Generator CLI** – Instant Developer Portfolio Creator
-> A CLI tool to generate responsive portfolios using terminal prompts.
-- 🧰 Built with: `Node.js`, `Inquirer`, `Chalk`, `EJS Templates`
-- 🎯 Outputs static HTML/CSS files with user info and GitHub integration
-
----
-
-### 🛠️ Tech Stack
+🛠️ Tech Stack
 
 **Languages & Frameworks**  
 `HTML` • `CSS` • `JavaScript` • `TypeScript` • `Python` • `Java` • `Node.js` • `React.js` • `Next.js` • `Express` • `Flutter`
