@@ -13,7 +13,7 @@
 - 💼 Experienced in building full-stack projects using **React, Node.js, MongoDB, PostgreSQL, and Tailwind CSS**.
 - 🧠 Completed hands-on training at **X-Workz**, gaining professional experience in REST API design, modular JavaScript, and database-driven applications.
 - 🌱 Currently exploring **Advanced React Patterns, Flutter Animations**, and **Machine Learning with Python**.
-- 🔗 Portfolio: http://ansar-portfolio.surge.sh/
+- 🔗 Portfolio: https://ansarhansi-portfolio.surge.sh/
 
 📬 **ansarhansi29@gmail.com**
  
